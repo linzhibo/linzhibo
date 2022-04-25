@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=linzhibo&layout=compact&card_width=250)
-![Github stats](https://github-readme-stats.vercel.app/api?username=linzhibo&theme=monokai&show_icons=true&count_private=true&border_radius=20)
+![Github stats](https://github-readme-stats.vercel.app/api?username=linzhibo&theme=default&show_icons=true&count_private=true&border_radius=20)
